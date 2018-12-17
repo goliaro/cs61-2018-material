@@ -1,0 +1,8 @@
+*.noopt
+*.opt
+*.unsafe
+mb-malloc
+mb-jemalloc
+mb-tcmalloc
+mb-malloc-[0-9][0-9]
+mb-arena-[0-9][0-9]

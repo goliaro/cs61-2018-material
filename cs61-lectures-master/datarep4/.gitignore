@@ -1,0 +1,10 @@
+mexplore
+mexplore.noopt
+mexplore.opt
+add
+ubexplore
+ubexplore.noopt
+ubexplore.opt
+ubexplore[1-9]
+ubexplore[1-9].noopt
+ubexplore[1-9].opt
